@@ -4,8 +4,8 @@ Telegram: <br>
 3. [MadelineProto, a PHP MTProto telegram client](https://docs.madelineproto.xyz/) <br>
  <br>
 BitTorrent-трекер: <br>
-1. [RuTracker.org] (https://rutracker.org/) <br>
-2. [The Pirate Bay] (https://thepiratebay.party/) <br>
+1. [RuTracker org](https://rutracker.org/) <br>
+2. [The Pirate Bay](https://thepiratebay.party/) <br>
  <br>
  <br>
  <br>
