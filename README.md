@@ -8,7 +8,7 @@ BitTorrent-трекер: <br>
 
 1. [RuTracker org](https://rutracker.org/) <br>
 2. [The Pirate Bay](https://thepiratebay.party/) <br>
- <br>
+3. [Seedr](https://www.seedr.cc/) - скачивание торрентов<br>
  <br>
  <br>
  <br>
