@@ -17,6 +17,10 @@ BitTorrent-трекер: <br>
  <br>
 
 
+<details>
+	<summary>Нажми на меня</summary>
+	Скрытый текст!
+</details>
 
 
 
