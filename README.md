@@ -17,6 +17,10 @@ BitTorrent-трекер: <br>
  <br>
 
 
+Raspberry Pi: <br>
+1. [Raspberry Pi - OS](https://www.raspberrypi.com/software/operating-systems/)
+
+
 <details>
 	<summary>Нажми на меня</summary>
 	Скрытый текст!
