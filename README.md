@@ -7,8 +7,9 @@ Telegram: <br>
 BitTorrent-трекер: <br>
 
 1. [RuTracker.org](https://rutracker.org/) <br>
-2. [The Pirate Bay](https://thepiratebay.party/) <br>
-3. [Seedr](https://www.seedr.cc/) - скачивание торрентов<br>
+2. [Rutor.org](https://rutor.org/) <br>
+3. [The Pirate Bay](https://thepiratebay.party/) <br>
+4. [Seedr](https://www.seedr.cc/) - скачивание торрентов<br>
 
 
 Конвертер(ы): <br>
